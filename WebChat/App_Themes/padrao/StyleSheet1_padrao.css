@@ -1,0 +1,12 @@
+﻿body {
+    margin: 0px;
+    font-family: 'Century Gothic'
+}
+
+h1 {
+    margin: 0px;
+    background-color: #ff6a00;
+    color: #ffffff;
+    padding: 30px;
+    margin-bottom: 40px;
+}
